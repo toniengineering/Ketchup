@@ -5,3 +5,7 @@ So this is KETCHUP based on a ketchup bottle but with a little twist. So I like 
 <img width="203" height="271" alt="Screenshot 2026-06-13 024934" src="https://github.com/user-attachments/assets/0b950ea5-a34e-43b8-85bb-6a1559ef5950" />
 
 BOM:
+
+|Name   |Purpose|Quantity|Total Cost (USD)|Link                                  |Distributor|
+|-------|-------|--------|----------------|--------------------------------------|-----------|
+|Ketchup|my pcb |5       |2.00            |https://cart.jlcpcb.com/shopcart/cart/|JLCPCB     |
